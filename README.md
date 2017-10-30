@@ -1,2 +1,2 @@
 # netsuite
-this allows us to connect to NetSuite to pull down raw data
+This project allows us to connect to NetSuite to pull down raw data
